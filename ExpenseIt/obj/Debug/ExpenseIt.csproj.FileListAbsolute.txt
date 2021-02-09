@@ -17,3 +17,4 @@ C:\Users\tgoss\source\repos\WPF-Testing\ExpenseIt\obj\Debug\ExpenseIt.csproj.Gen
 C:\Users\tgoss\source\repos\WPF-Testing\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
 C:\Users\tgoss\source\repos\WPF-Testing\ExpenseIt\obj\Debug\ExpenseIt.exe
 C:\Users\tgoss\source\repos\WPF-Testing\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\tgoss\source\repos\WPF-Testing\ExpenseIt\obj\Debug\App.baml
